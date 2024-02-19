@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(245, 235, 220);
+}
+
+
+#burger-img{
+    width: 100%;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.container-two{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+}
+
+
+/* navbar area design end  */
+
+
+/* main section design started  */
+
+
+/* main section design ended  */
+
+
+/* footer section started  */
+
+
+/* footer section ended  */
